@@ -1,0 +1,42 @@
+{
+	"name": "tymz-site",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start",
+		"export": "next build",
+		"lint": "next lint"
+	},
+	"dependencies": {
+		"bootstrap": "^5.3.3",
+		"google-map-react": "^2.2.1",
+		"next": "^15.1.3",
+		"postmark": "^4.0.5",
+		"react": "^18.3.1",
+		"react-dom": "^18.3.1",
+		"react-icons": "^5.4.0",
+		"react-image-lightbox": "^5.1.4",
+		"react-modal-video": "^2.0.2",
+		"react-scroll-up": "^1.4.0",
+		"react-slick": "^0.30.2",
+		"react-tabs": "^6.0.2",
+		"react-xmasonry": "^3.0.5",
+		"slick-carousel": "^1.8.1"
+	},
+	"devDependencies": {
+		"@babel/eslint-parser": "^7.17.0",
+		"eslint": "8.2.0",
+		"eslint-config-airbnb": "19.0.4",
+		"eslint-config-next": "15.1.3",
+		"eslint-config-prettier": "^8.5.0",
+		"eslint-plugin-import": "2.25.3",
+		"eslint-plugin-jsx-a11y": "6.5.1",
+		"eslint-plugin-prettier": "^4.0.0",
+		"eslint-plugin-react": "7.28.0",
+		"eslint-plugin-react-hooks": "4.3.0",
+		"prettier": "^2.6.2",
+		"sass": "^1.52.1"
+	}
+}
