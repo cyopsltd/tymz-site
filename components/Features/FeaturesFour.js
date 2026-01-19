@@ -8,8 +8,8 @@ export default function FeaturesFour() {
             <div className="section-title wow fadeInUp" data-wow-duration="1s">
               <h2>Features to meet all your scheduling needs</h2>
               <p>
-                In mobile banking you get all kinds of modern services It helps
-                you focus on your core business and benefit.
+                Whether you need scheduling for your business or scheduling for
+                your friends and family, Tymz has you covered.
               </p>
             </div>
           </div>

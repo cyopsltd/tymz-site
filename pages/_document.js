@@ -4,6 +4,39 @@ export default function Document() {
   return (
     <Html>
       <Head>
+        {/* Open Graph Meta Tags */}
+        <meta
+          property="og:title"
+          content="Tymz - Effortless event scheduling"
+        />
+        <meta
+          property="og:description"
+          content="Create one-off and recurring calendars, coordinate group events, and share availability with ease using our intuitive tools."
+        />
+        <meta property="og:site_name" content="Tymz" />
+        <meta property="og:type" content="website" />
+        <meta property="og:locale" content="en_US" />
+        <meta property="og:url" content="https://tymz.ai" />
+        <meta property="og:image" content="https://tymz.ai/img/preview.jpg" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta
+          property="og:image:alt"
+          content="Tymz - Effortless event scheduling"
+        />
+
+        {/* Twitter Card Meta Tags */}
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta
+          name="twitter:title"
+          content="Tymz - Effortless event scheduling"
+        />
+        <meta
+          name="twitter:description"
+          content="Create one-off and recurring calendars, coordinate group events, and share availability with ease using our intuitive tools."
+        />
+        <meta name="twitter:image" content="https://tymz.ai/img/preview.jpg" />
+
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
           rel="preconnect"
