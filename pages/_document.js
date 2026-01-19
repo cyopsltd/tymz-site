@@ -11,7 +11,7 @@ export default function Document() {
         />
         <meta
           property="og:description"
-          content="Create one-off and recurring calendars, coordinate group events, and share availability with ease using our intuitive tools."
+          content="Create one-off and recurring booking pages for business or personal use."
         />
         <meta property="og:site_name" content="Tymz" />
         <meta property="og:type" content="website" />
@@ -33,7 +33,7 @@ export default function Document() {
         />
         <meta
           name="twitter:description"
-          content="Create one-off and recurring calendars, coordinate group events, and share availability with ease using our intuitive tools."
+          content="Create one-off and recurring booking pages for business or personal use."
         />
         <meta name="twitter:image" content="https://tymz.ai/img/preview.jpg" />
 
